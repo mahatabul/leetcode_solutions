@@ -1,6 +1,12 @@
 # LeetCode Solutions
 
 Welcome to my LeetCode Solutions repository! This repository contains my personal solutions to various problems on LeetCode, a popular platform for coding challenges and technical interviews.
+<div align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="Project Logo" width="200" />
+</div>
+  
+
+
+---
 
 ## About
 
